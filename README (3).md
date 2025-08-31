@@ -77,6 +77,6 @@ fraud-ensemble/
 
 For questions or collaboration, please contact:
 
-Team Lead: Utkarsh
-Email: [your-email@example.com](mailto:your-email@example.com)
-GitHub: [YourGitHubProfile]
+Team Lead: Kriti Dwivedi
+Email: [dwivedikriti700@gmail.com](mailto:dwivedikriti700@gmail.com)
+GitHub: [github.com/kriti-1-9]

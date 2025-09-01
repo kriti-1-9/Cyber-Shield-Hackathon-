@@ -4,7 +4,6 @@ __pycache__/
 *.pyc
 data/*
 !data/.gitkeep
-models/
 alerts/
 .DS_Store
 Thumbs.db
